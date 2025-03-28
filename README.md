@@ -27,7 +27,7 @@ python KLogger.py
 ## Converting to an Executable
 To convert the script into an executable file:
 ```sh
-pyinstaller --onefile --noconsole kLogger.py
+pyinstaller --onefile --noconsole KLogger.py
 ```
 
 ## Adding to Startup
